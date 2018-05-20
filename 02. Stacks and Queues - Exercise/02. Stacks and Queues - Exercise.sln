@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Basic Queue Operations"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Sequence With Queue", "05. Sequence With Queue\05. Sequence With Queue.csproj", "{2DC0F1A6-DC6D-4B67-96D4-4EC0D759C245}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Truck Tour", "06. Truck Tour\06. Truck Tour.csproj", "{613BF352-3A59-4B59-981C-1BE2C7F4CB11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{2DC0F1A6-DC6D-4B67-96D4-4EC0D759C245}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DC0F1A6-DC6D-4B67-96D4-4EC0D759C245}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DC0F1A6-DC6D-4B67-96D4-4EC0D759C245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{613BF352-3A59-4B59-981C-1BE2C7F4CB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{613BF352-3A59-4B59-981C-1BE2C7F4CB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{613BF352-3A59-4B59-981C-1BE2C7F4CB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{613BF352-3A59-4B59-981C-1BE2C7F4CB11}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
