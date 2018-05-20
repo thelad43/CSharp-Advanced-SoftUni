@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Matching Brackets", "04
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Hot Potato", "05. Hot Potato\05. Hot Potato.csproj", "{C696DACA-8E4D-43D8-9596-A1F3B52586C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Traffic Jam", "06. Traffic Jam\06. Traffic Jam.csproj", "{164C3819-09A0-4ED8-9A2E-8948B03C30AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C696DACA-8E4D-43D8-9596-A1F3B52586C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C696DACA-8E4D-43D8-9596-A1F3B52586C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C696DACA-8E4D-43D8-9596-A1F3B52586C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{164C3819-09A0-4ED8-9A2E-8948B03C30AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164C3819-09A0-4ED8-9A2E-8948B03C30AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164C3819-09A0-4ED8-9A2E-8948B03C30AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164C3819-09A0-4ED8-9A2E-8948B03C30AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
