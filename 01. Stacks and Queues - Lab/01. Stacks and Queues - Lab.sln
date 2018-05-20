@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Decimal to Binary Conve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Matching Brackets", "04. Matching Brackets\04. Matching Brackets.csproj", "{7F9BFC3E-CFC6-41C0-BFA2-0BE7414F68BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Hot Potato", "05. Hot Potato\05. Hot Potato.csproj", "{C696DACA-8E4D-43D8-9596-A1F3B52586C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7F9BFC3E-CFC6-41C0-BFA2-0BE7414F68BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F9BFC3E-CFC6-41C0-BFA2-0BE7414F68BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F9BFC3E-CFC6-41C0-BFA2-0BE7414F68BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C696DACA-8E4D-43D8-9596-A1F3B52586C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C696DACA-8E4D-43D8-9596-A1F3B52586C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C696DACA-8E4D-43D8-9596-A1F3B52586C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C696DACA-8E4D-43D8-9596-A1F3B52586C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
