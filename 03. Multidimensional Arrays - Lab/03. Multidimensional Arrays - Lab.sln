@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Square With Maximum Sum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Group Numbers", "03. Group Numbers\03. Group Numbers.csproj", "{71083EEE-93FB-45A3-8E00-DB6C0877393E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Pascal Triangle", "04. Pascal Triangle\04. Pascal Triangle.csproj", "{250CF007-FD8D-476A-B326-527D20C933CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{71083EEE-93FB-45A3-8E00-DB6C0877393E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71083EEE-93FB-45A3-8E00-DB6C0877393E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71083EEE-93FB-45A3-8E00-DB6C0877393E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250CF007-FD8D-476A-B326-527D20C933CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250CF007-FD8D-476A-B326-527D20C933CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250CF007-FD8D-476A-B326-527D20C933CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250CF007-FD8D-476A-B326-527D20C933CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
