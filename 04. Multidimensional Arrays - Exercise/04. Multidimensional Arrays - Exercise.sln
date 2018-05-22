@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. The Heigan Dance", "10.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Parking System", "11. Parking System\11. Parking System.csproj", "{954E4D9A-DCF8-4D41-9D3F-C138DCF1B504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. String Matrix Rotation", "12. String Matrix Rotation\12. String Matrix Rotation.csproj", "{49CDFA70-799C-442D-8EE2-6DFC956E240A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{954E4D9A-DCF8-4D41-9D3F-C138DCF1B504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954E4D9A-DCF8-4D41-9D3F-C138DCF1B504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954E4D9A-DCF8-4D41-9D3F-C138DCF1B504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CDFA70-799C-442D-8EE2-6DFC956E240A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CDFA70-799C-442D-8EE2-6DFC956E240A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CDFA70-799C-442D-8EE2-6DFC956E240A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CDFA70-799C-442D-8EE2-6DFC956E240A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
