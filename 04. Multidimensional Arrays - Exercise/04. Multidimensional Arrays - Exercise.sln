@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Matrix of Palindromes", "01. Matrix of Palindromes\01. Matrix of Palindromes.csproj", "{F8199C89-B08D-4B5D-8874-5D16F69FAE7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Diagonal Difference", "02. Diagonal Difference\02. Diagonal Difference.csproj", "{F7EED0BF-3731-4441-84E4-F4C9953D98A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F8199C89-B08D-4B5D-8874-5D16F69FAE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8199C89-B08D-4B5D-8874-5D16F69FAE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8199C89-B08D-4B5D-8874-5D16F69FAE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7EED0BF-3731-4441-84E4-F4C9953D98A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EED0BF-3731-4441-84E4-F4C9953D98A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EED0BF-3731-4441-84E4-F4C9953D98A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EED0BF-3731-4441-84E4-F4C9953D98A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
